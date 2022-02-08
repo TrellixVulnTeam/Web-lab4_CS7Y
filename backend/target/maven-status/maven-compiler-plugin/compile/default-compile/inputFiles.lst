@@ -1,0 +1,15 @@
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/entities/Dot.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/restResources/LoginResource.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/utils/SecurePassword.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/beans/DatabaseManager.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/beans/DotsData.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/entities/User.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/beans/JwtManager.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/pojo/ResponseData.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/restResources/AddDotResource.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/restResources/RegisterResource.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/utils/CORSFilter.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/restResources/DataResource.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/Main.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/beans/UsersData.java
+/home/callmepedro/Documents/labs/web/Lab4/backend/src/main/java/com/labs/backend/restResources/ClearResource.java

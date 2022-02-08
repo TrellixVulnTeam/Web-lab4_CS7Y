@@ -1,0 +1,92 @@
+::ng-deep :root {;
+  --svg-main-color: #2196f3;
+  --svg-border-color: #155D97;
+}
+html, body {
+  height: 100%;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.interaction-container {
+  width: 380px;
+  padding: 5px;
+  display: inline-block;
+}
+.svg-container{
+  display: flex;
+  justify-content: space-around;
+}
+.tables-container {
+  display: flex;
+  justify-content: space-between;
+}
+.data-container {
+  width: 75%;
+  overflow: hidden;
+  height: 80vh;
+  border-bottom: 2px solid black;
+}
+.inner-scroll-container {
+  overflow: auto;
+  height: 100%;
+}
+.tables-container {
+  display: flex;
+  flex-direction: row;
+}
+.table-button {
+  width: 100%;
+}
+.table-caption, .form-label {
+  color: black;
+  font-size: 1.4rem;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#submit-button, #clear-button {
+  width: 48%;
+}
+.alert-danger {
+  text-align: center;
+  margin-top: 15%;
+}
+
+
+.svg-coordinate-text {
+  font-size: 14px;
+}
+.svg-coordinate-line, .svg-axis {
+  stroke: black;
+}
+.svg-triangle-polygon {
+  fill: var(--svg-main-color);
+  fill-opacity: 0.7;
+  stroke: var(--svg-border-color);
+}
+.svg-triangle-polygon:hover {
+  fill-opacity: 0.8;
+}
+.svg-rectangle-polygon {
+  fill: var(--svg-main-color);
+  fill-opacity: 0.7;
+  stroke: var(--svg-border-color);
+}
+.svg-rectangle-polygon:hover {
+  fill-opacity: 0.8;
+}
+.svg-sector-polygon {
+  fill: var(--svg-main-color);
+  fill-opacity: 0.7;
+  stroke: var(--svg-border-color);
+}
+.svg-sector-polygon:hover {
+  fill: var(--svg-main-color);
+  fill-opacity: 0.8;
+}

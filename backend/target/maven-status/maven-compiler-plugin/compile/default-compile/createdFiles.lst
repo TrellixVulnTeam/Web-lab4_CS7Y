@@ -1,0 +1,15 @@
+com/labs/backend/restResources/DataResource.class
+com/labs/backend/beans/DatabaseManager.class
+com/labs/backend/beans/JwtManager.class
+com/labs/backend/entities/Dot.class
+com/labs/backend/entities/User.class
+com/labs/backend/utils/SecurePassword.class
+com/labs/backend/beans/UsersData.class
+com/labs/backend/restResources/AddDotResource.class
+com/labs/backend/beans/DotsData.class
+com/labs/backend/pojo/ResponseData.class
+com/labs/backend/restResources/RegisterResource.class
+com/labs/backend/restResources/ClearResource.class
+com/labs/backend/utils/CORSFilter.class
+com/labs/backend/Main.class
+com/labs/backend/restResources/LoginResource.class
